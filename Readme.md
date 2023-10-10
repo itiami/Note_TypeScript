@@ -44,3 +44,6 @@ Ensure you have the following installed:
 - Yarn
 
 ### Setup
+
+clone: 
+git clone https://github.com/itiami/Note_TypeScript.git
